@@ -17,8 +17,8 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Fonctionnalités 
 
-- Définir une ou plusieurs localisations dite "officielle" (Administrateur niveau 5 requis)
-- Définir une ou plusieurs localisations dite "entreprise" (Gérant d'une entreprise et vérification par un Administrateur nécessaire)
+- Définir une ou plusieurs localisations dite "Officielle" (Administrateur niveau 5 requis)
+- Définir une ou plusieurs localisations dite "Entreprise" (Gérant d'une entreprise et vérification par un Administrateur nécessaire)
 - Définir une ou plusieurs localisations dite "Personnelle" (Chaque joueur peut ajouter des localisations que seul lui peut voir)
 - Partage de position (il est possible de partager votre position à l'un de vos contacts téléphoniques)
   
